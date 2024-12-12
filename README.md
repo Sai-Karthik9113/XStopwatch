@@ -38,9 +38,14 @@ This project is a simple Stopwatch built using React as part of a course assignm
 
 ## Screenshots
 
-Below are some screenshots of the application:
+Below are GIFs showing the stopwatch in action:
+
+- **Start and Stop**: The stopwatch toggles between starting and stopping the timer.
 
 ![Stopwatch GIF][start and stop]
+
+- **Reset**: The stopwatch resets to `00:00` when the reset button is clicked.
+
 ![Stopwatch GIF][reset]
 
 ## Usage
